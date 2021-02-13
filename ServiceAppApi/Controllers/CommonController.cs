@@ -40,7 +40,6 @@ namespace ServiceAppApi.Controllers
             {
                 actionResult = Ok(new { success = false, message = ex.Message });
             }
-            // prabhu
             return actionResult;
         }
         #endregion
