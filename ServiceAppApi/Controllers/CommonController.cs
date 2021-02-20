@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ServiceAppApi.Models;
 using ServiceAppApi.Services.CommonService;
 using System;
@@ -23,6 +24,7 @@ namespace ServiceAppApi.Controllers
         #region SaveProduct
         [Route("saveproduct")]
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult SaveProduct()
         {
             

@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ServiceAppApi.Models;
 
 namespace ServiceAppApi.Migrations
 {
     [DbContext(typeof(ServicesAppDataContext))]
-    partial class ServicesAppDataContextModelSnapshot : ModelSnapshot
+    [Migration("20210216175051_Added_New_Role_And_Changed_AddressId_As_Nullable")]
+    partial class Added_New_Role_And_Changed_AddressId_As_Nullable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

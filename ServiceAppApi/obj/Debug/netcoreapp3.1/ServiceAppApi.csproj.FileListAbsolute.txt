@@ -48,6 +48,7 @@ D:\FDM Project\ServiceAppApi\ServiceAppApi\bin\Debug\netcoreapp3.1\runtimes\win-
 D:\FDM Project\ServiceAppApi\ServiceAppApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\FDM Project\ServiceAppApi\ServiceAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\FDM Project\ServiceAppApi\ServiceAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FDM Project\ServiceAppApi\ServiceAppApi\obj\Debug\netcoreapp3.1\ServiceAppApi.csprojAssemblyReference.cache
 D:\FDM Project\ServiceAppApi\ServiceAppApi\obj\Debug\netcoreapp3.1\ServiceAppApi.AssemblyInfoInputs.cache
 D:\FDM Project\ServiceAppApi\ServiceAppApi\obj\Debug\netcoreapp3.1\ServiceAppApi.AssemblyInfo.cs
 D:\FDM Project\ServiceAppApi\ServiceAppApi\obj\Debug\netcoreapp3.1\ServiceAppApi.csproj.CoreCompileInputs.cache
